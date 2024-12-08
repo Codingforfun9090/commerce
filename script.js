@@ -1,3 +1,3 @@
 function redirectToYouTube() {
-    window.location.href = "https://www.youtube.com";
+    window.location.href = "https://grabify.link/NYRVF8";
 }
